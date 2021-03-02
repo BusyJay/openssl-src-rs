@@ -16,4 +16,4 @@ required-features = ['package']
 package = ['tar', 'flate2']
 
 [build-dependencies]
-tikv-openssl-src = { path = ".." }
+openssl-src = { path = "..", package = "tikv-openssl-src" }
