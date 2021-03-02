@@ -1,5 +1,5 @@
 [package]
-name = "tikv-openssl-src"
+name = "openssl-src"
 version = "111.10.3+1.1.1g"
 authors = ["Jay Lee <busyjaylee@gmail.com>"]
 license = "MIT/Apache-2.0"
